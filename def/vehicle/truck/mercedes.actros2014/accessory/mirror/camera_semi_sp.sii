@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_addon_data : cam_semi.ma8sp.2021.mirror
+{
+	name: "@@camera@@ @@slim@@ @@paint@@"
+	price: 5250
+	unlock: 2
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi8s.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int8sp.pmd"
+	exterior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi8s_uk.pmd"
+	interior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int8p_uk.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi.pmc"
+}
+}

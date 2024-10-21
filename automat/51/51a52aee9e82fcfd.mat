@@ -1,0 +1,30 @@
+effect : "eut2.dif.spec.weight.add.env.tsnmap.rfx" {
+	additional_ambient : 0.000000
+	diffuse : { 0.902753 , 0.747688 , 0.657301 }
+	env_factor : { 0.019607 , 0.019607 , 0.019607 }
+	fresnel : { 1.000000 , 0.000000 }
+	reflection : 0.000000
+	shininess : 20.000000
+	specular : { 1.000000 , 1.000000 , 1.000000 }
+	texture : "texture_base" {
+		source : "/vehicle/truck/scania_2016/interior/leather_fine_c.tobj"
+		min_filter : linear
+		mag_filter : linear
+		mip_filter : linear
+	}
+	texture : "texture_nmap" {
+		source : "/vehicle/truck/scania_2016/interior/logo_scania_n.tobj"
+		min_filter : linear
+		mag_filter : linear
+		mip_filter : linear
+		u_address : clamp
+		v_address : clamp
+	}
+	texture : "texture_reflection" {
+		source : "/material/environment/soft_reflection/soft_reflection.tobj"
+		mip_filter : none
+		u_address : clamp
+		v_address : clamp
+		w_address : clamp
+	}
+}

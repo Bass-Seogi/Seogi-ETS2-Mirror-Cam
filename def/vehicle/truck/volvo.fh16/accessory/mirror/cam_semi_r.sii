@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_addon_data : cam_semi.ma16r.2021.mirror
+{
+	name: "Cam, Rear"
+	price: 5250
+	unlock: 2
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi16r.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int16r.pmd"
+	exterior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi16_uk.pmd"
+	interior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int16_uk.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi.pmc"
+}
+}

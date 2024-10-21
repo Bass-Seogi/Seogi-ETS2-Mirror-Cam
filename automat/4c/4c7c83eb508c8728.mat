@@ -1,0 +1,17 @@
+material : "eut2.dif.spec.oclu.weight.add.env.tsnmapuv.rfx" {
+	texture[0] : "/vehicle/truck/scania_2016/galvanized_steel.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/scania_2016/metal_grid_01.tobj"
+	texture_name[1] : "texture_oclu"
+	texture[2] : "/material/environment/fuzzy_reflection/fuzzy_reflection.tobj"
+	texture_name[2] : "texture_reflection"
+	texture[3] : "/vehicle/truck/scania_2016/metal_grid_01_n.tobj"
+	texture_name[3] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 0.318547 , 0.318547 , 0.318547 }
+	env_factor : { 0.447988 , 0.447988 , 0.447988 }
+	fresnel : { 0.2 , 0.9 }
+	reflection : 0
+	shininess : 60
+	specular : { 1 , 1 , 1 }
+}

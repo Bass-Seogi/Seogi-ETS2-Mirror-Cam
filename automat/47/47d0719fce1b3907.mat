@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.tsnmapuv.decal.rfx" {
+	texture[0] : "/vehicle/truck/man_tgx_euro6/interior/circles.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/vehicle/truck/man_tgx_euro6/interior/circles_n.tobj"
+	texture_name[1] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 0.170645 , 0.170645 , 0.170645 }
+	reflection : 0
+	shininess : 50
+	specular : { 0.19076 , 0.19076 , 0.19076 }
+}

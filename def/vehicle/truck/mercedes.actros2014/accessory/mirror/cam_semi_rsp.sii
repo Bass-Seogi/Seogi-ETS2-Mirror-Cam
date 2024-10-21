@@ -1,0 +1,22 @@
+SiiNunit
+{
+accessory_addon_data : cam_semi.ma8rsp.2021.mirror
+{
+	name: "@@rear@@@@cam@@ @@slim@@ @@paint@@"
+	price: 5250
+	unlock: 2
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi8rs.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int8rsp.pmd"
+	exterior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi14_uk.pmd"
+	interior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int14_uk.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi.pmc"
+
+	suitable_for[]: "streamspace.mercedes.actros2014.cabin"
+	suitable_for[]: "bigspace.mercedes.actros2014.cabin"
+	suitable_for[]: "gigaspace.mercedes.actros2014.cabin"
+}
+}

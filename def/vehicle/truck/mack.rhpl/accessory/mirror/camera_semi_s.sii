@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : cam_semi.mrs.mirror
+{
+	name: "Camera, Slim"
+	price: 5250
+	unlock: 2
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_mrs.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_int_mrs.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_mr.pmc"
+}
+}

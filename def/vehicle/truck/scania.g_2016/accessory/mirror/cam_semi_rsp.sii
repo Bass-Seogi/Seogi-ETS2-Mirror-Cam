@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_addon_data : cam_semi.ma14mgrsp.mirror
+{
+	name: "Cam, Rear Slim @@paint@@"
+	price: 5250
+	unlock: 2
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi14rs.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int14rsp.pmd"
+	exterior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi14_uk.pmd"
+	interior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int14_uk.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi.pmc"
+}
+}

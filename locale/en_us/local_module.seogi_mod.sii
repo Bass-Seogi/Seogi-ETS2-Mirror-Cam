@@ -1,0 +1,41 @@
+SiiNunit
+{
+localization_db : .localization
+{
+	key[]: "small"
+	val[]: "Small"
+
+	key[]: "medium"
+	val[]: "Medium"
+
+	key[]: "big"
+	val[]: "Big"
+
+	key[]: "middle"
+	val[]: "Middle"
+
+	key[]: "hud"
+	val[]: "HUD"
+
+	key[]: "set_hud"
+	val[]: "HUD Set"
+
+	key[]: "top"
+	val[]: "Top"
+
+	key[]: "cornereye"
+	val[]: "CornerEye"
+
+	key[]: "camera"
+	val[]: "Camera"
+
+	key[]: "cam_rear"
+	val[]: "Rear Cam"
+
+	key[]: "slim"
+	val[]: "Slim"
+
+	key[]: "fog_lights"
+	val[]: "Fog Lights"
+}
+}

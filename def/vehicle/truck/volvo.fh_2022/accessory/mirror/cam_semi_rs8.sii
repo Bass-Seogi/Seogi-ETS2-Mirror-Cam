@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_addon_data : cam_semi.sa17rs8.2021.mirror
+{
+	name: "@@cam@@, @@rear@@ @@slim@@ 8x"
+	price: 5300
+	unlock: 2
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/sam_semi17rs8.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/sam_semi_int17rs.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi.pmc"
+
+	suitable_for[]: "8x4_chs.volvo.fh_2022.chassis"
+}
+}

@@ -1,0 +1,37 @@
+﻿[blue]Seogi Mirror Cam All Truck
+It will function normally from 1.51
+
+[red]My mod is only hosted in the workshop.
+If you find my mod on other sites, we do not support it.[normal]
+
+
+f_mirror cam and external point of view, Center mirror cam (rear cam, front cam top)
+
+daf.xfㅤ daf.xf_euro6ㅤ daf.2021
+
+iveco.stralisㅤ iveco.hiway
+
+renault.magnumㅤ renault.premiumㅤ f_mirror Cam, CornerCam
+renault.tㅤ renault.etech_t
+
+man.tgx
+man.tgx_euro6 (add rearcam for 8x4)
+
+mercedes.actros
+mercedes.actros2014 (add rearcam for 8x4)
+
+scania.s_2016ㅤ scania.r_2016 (add rearcam for 8x4, f_mirror low)
+mod scania.p_2016 scania.g_2016 (f_mirror pgrs)
+scania.s_2024e
+scania.streamlineㅤ scania.r (add rearcam for 8x4)
+
+volvo.fh16
+volvo.fh16_2012 (add rearcam for 8x4)
+mod sanax_volvo_fh_2022
+mod reworked volvo.fh16_2012,2018 (f_mirror Reworked)
+mod mack.r
+
+man.tgx_2020 (find rear cam in f_mirror)
+
+Side mirrors can be removed
+Fix not being able to remove Iveco Daf mirror (option - no mirror)

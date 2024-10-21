@@ -1,0 +1,8 @@
+effect : "eut2.reflective.rfx" {
+	texture : "texture_base" {
+		source : "/vehicle/trailer_owned/krone_share/krone_stripe_reflective.tobj"
+		min_filter : linear
+		mag_filter : linear
+		mip_filter : linear
+	}
+}

@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : cam_plast.fma14mpg.f_mirror
+{
+	name: "CornerEye pgrs"
+	price: 2880
+	unlock: 2
+	icon: "truck/daf_2021/accessory/f_mirror/cam_plastic"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/f_mirror/cam_plastic14.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/f_mirror/cam_plastic_int14g.pmd"
+}
+}

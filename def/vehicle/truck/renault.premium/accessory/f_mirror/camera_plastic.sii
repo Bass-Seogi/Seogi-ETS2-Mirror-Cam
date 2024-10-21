@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : cam_plast.fma10.f_mirror
+{
+	name: "Camera Front"
+	price: 2880
+	unlock: 2
+	icon: "truck/daf_2021/accessory/f_mirror/cam_plastic"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/f_mirror/cam_plastic10.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/f_mirror/cam_plastic_int10.pmd"
+}
+}

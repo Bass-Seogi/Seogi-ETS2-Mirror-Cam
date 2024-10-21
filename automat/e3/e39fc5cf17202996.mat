@@ -1,0 +1,8 @@
+material : "eut2.unlit.vcol.tex.flipsheet.add.rfx" {
+	texture[0] : "/vehicle/share/textures/light/led_strip_lum.tobj"
+	texture_name[0] : "texture_base"
+	aux[0] : { 5 , 2 , 8 }
+	aux[1] : { 0.5 , 0.25 }
+	aux[5] : { 2000 , 10 }
+	diffuse : { 1 , 1 , 1 }
+}

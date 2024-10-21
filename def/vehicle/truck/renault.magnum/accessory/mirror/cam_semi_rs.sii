@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : cam_semi.ma9rs.2021.mirror
+{
+	name: "Cam, Rear Slim"
+	price: 5250
+	unlock: 2
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi9rs.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int9rs.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi9r.pmc"
+}
+}

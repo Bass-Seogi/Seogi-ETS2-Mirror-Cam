@@ -1,0 +1,19 @@
+SiiNunit
+{
+accessory_addon_data : cam_semi.sa17rp.2021.mirror
+{
+	name: "@@cam@@, @@rear@@ @@paint@@"
+	price: 5205
+	unlock: 2
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/sam_semi17r.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/sam_semi_int17rp.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi.pmc"
+
+	suitable_for[]: "globe_cab.volvo.fh_2022.cabin"
+	suitable_for[]: "globe_cab_w.volvo.fh_2022.cabin"
+}
+}

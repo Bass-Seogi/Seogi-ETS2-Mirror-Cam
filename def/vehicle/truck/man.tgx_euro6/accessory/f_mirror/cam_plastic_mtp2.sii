@@ -1,0 +1,19 @@
+SiiNunit
+{
+accessory_addon_data : cam_plast.fma6mtp2.f_mirror
+{
+	name: "Cam Front Top2 Low @@paint@@"
+	price: 3080
+	unlock: 2
+	icon: "truck/daf_2021/accessory/f_mirror/cam_plastic"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/f_mirror/cam_plastic6mt2.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/f_mirror/cam_plastic_int6mtp2.pmd"
+	exterior_model_uk: "/vehicle/truck/daf_2021/accessory/f_mirror/cam_plastic6m.pmd"
+	interior_model_uk: "/vehicle/truck/daf_2021/accessory/f_mirror/cam_plastic_int6_uk.pmd"
+
+	suitable_for[]: "xl_cab.man.tgx_euro6.cabin"
+	suitable_for[]: "xlx_cab.man.tgx_euro6.cabin"
+}
+}

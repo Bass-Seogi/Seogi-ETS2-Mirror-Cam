@@ -1,0 +1,20 @@
+SiiNunit
+{
+accessory_addon_data : cam_semi.ma5rsh.mirror
+{
+	name: "Cam, Rear Slim High"
+	price: 5250
+	unlock: 11
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi5rsh.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int5rsh.pmd"
+	exterior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi6s_uk.pmd"
+	interior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int6s_uk.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi.pmc"
+
+	suitable_for[]: "xxl_cab.man.tgx.cabin"
+}
+}

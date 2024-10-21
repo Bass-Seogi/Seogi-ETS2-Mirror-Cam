@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : cam_semi.sa17.2021.mirror
+{
+	name: "@@camera@@"
+	price: 5000
+	unlock: 2
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/sam_semi17.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/sam_semi_int17.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi.pmc"
+}
+}

@@ -1,0 +1,9 @@
+material : "eut2.dif.spec.weight.rfx" {
+	texture[0] : "/vehicle/truck/scania_2016/interior/wall_side_c.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.652224 , 0.521883 , 0.447822 }
+	reflection : 0
+	shininess : 12
+	specular : { 1 , 0.857192 , 0.755671 }
+}

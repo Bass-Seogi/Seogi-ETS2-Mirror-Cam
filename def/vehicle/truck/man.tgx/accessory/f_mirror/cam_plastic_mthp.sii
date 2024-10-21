@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_addon_data : cam_plast.fma5mthp.f_mirror
+{
+	name: "Cam Front Top High @@paint@@"
+	price: 3080
+	unlock: 2
+	icon: "truck/daf_2021/accessory/f_mirror/cam_plastic"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/f_mirror/cam_plastic5mth.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/f_mirror/cam_plastic_int5mthp.pmd"
+	exterior_model_uk: "/vehicle/truck/daf_2021/accessory/f_mirror/cam_plastic6m.pmd"
+	interior_model_uk: "/vehicle/truck/daf_2021/accessory/f_mirror/cam_plastic_int6_uk.pmd"
+
+	suitable_for[]: "xxl_cab.man.tgx.cabin"
+}
+}

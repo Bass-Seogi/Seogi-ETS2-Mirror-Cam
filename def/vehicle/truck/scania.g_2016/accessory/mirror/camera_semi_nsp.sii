@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_addon_data : cam_semi.ma14mgnsp.mirror
+{
+	name: "Camera 2016, Slim @@paint@@"
+	price: 5250
+	unlock: 2
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi14ns.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int14nsp.pmd"
+	exterior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi14ns_uk.pmd"
+	interior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int14nsp_uk.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi.pmc"
+}
+}

@@ -1,0 +1,41 @@
+SiiNunit
+{
+localization_db : .localization
+{
+	key[]: "small"
+	val[]: "소"
+
+	key[]: "medium"
+	val[]: "중"
+
+	key[]: "big"
+	val[]: "대"
+
+	key[]: "middle"
+	val[]: "가운데"
+
+	key[]: "hud"
+	val[]: "HUD"
+
+	key[]: "set_hud"
+	val[]: "HUD 세트"
+
+	key[]: "top"
+	val[]: "상단"
+
+	key[]: "cornereye"
+	val[]: "코너뷰"
+
+	key[]: "camera"
+	val[]: "카메라"
+
+	key[]: "cam_rear"
+	val[]: "후방캠"
+
+	key[]: "slim"
+	val[]: "슬림"
+
+	key[]: "fog_lights"
+	val[]: "안개등"
+}
+}

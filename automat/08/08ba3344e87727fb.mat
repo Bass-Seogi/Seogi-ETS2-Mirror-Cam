@@ -1,0 +1,10 @@
+material : "eut2.dif.spec.a.decal.rfx" {
+	texture[0] : "/vehicle/share/textures/light/led_strip_color.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0.447988 , 0.447988 , 0.447988 }
+	reflection : 0
+	shininess : 20
+	specular : { 0.0571543 , 0.0571543 , 0.0571543 }
+	queue_bias : 1
+}

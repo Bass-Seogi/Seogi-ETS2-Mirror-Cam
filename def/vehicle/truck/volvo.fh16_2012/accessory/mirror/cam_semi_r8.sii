@@ -1,0 +1,20 @@
+SiiNunit
+{
+accessory_addon_data : cam_semi.ma17r8.2021.mirror
+{
+	name: "@@cam@@, @@rear@@"
+	price: 5200
+	unlock: 2
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi17r8.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int17r.pmd"
+	exterior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi17_uk.pmd"
+	interior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int17_uk.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi.pmc"
+
+	suitable_for[]: "l2h3_8x4.volvo.fh16_2012.cabin"
+}
+}

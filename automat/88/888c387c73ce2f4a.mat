@@ -1,0 +1,11 @@
+material : "eut2.dif.lum.decal.over.rfx" {
+	texture[0] : "/vehicle/truck/mercedes_actros_2014/interior/icons.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	aux[5] : { 2000 , 10 }
+	diffuse : { 0.447988 , 0.447988 , 0.447988 }
+	queue_bias : 0
+	reflection : 0
+	shininess : 2
+	specular : { 0 , 0 , 0 }
+}

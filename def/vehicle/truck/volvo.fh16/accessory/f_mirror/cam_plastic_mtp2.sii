@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : cam_plast.fma16mtp2.f_mirror
+{
+	name: "Cam Front Top2 @@paint@@"
+	price: 3080
+	unlock: 2
+	icon: "truck/daf_2021/accessory/f_mirror/cam_plastic"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/f_mirror/cam_plastic16mt2.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/f_mirror/cam_plastic_int16mtp2.pmd"
+	exterior_model_uk: "/vehicle/truck/daf_2021/accessory/f_mirror/cam_plastic14m.pmd"
+	interior_model_uk: "/vehicle/truck/daf_2021/accessory/f_mirror/cam_plastic_int14mp_uk.pmd"
+}
+}

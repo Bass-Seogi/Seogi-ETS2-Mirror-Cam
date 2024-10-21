@@ -1,0 +1,55 @@
+SiiNunit
+{
+accessory_truck_data : vehicle.mercedes.actros2014
+{
+	info[]: "@@brand_mercedes@@"
+	info[]: "@@series_mercedes_actros_2014@@"
+	info[]: "@@brand_mercedes_short@@"	# optional shorter brand name
+	
+	behind_camera: camera.behind.basic
+	interior_camera: camera.interior.mercedes.actros2014
+	interior_camera_oculus: camera.interior.mercedes.actros2014.oculus
+	bumper_camera: camera.bumper.basic
+	window_camera: camera.window.basic
+	cabin_camera: camera.cabin.basic
+	wheel_camera: camera.wheel.basic
+	top_camera: camera.top.basic
+	tv_camera: camera.tv.basic
+	wander_camera: camera.wander
+	debug_camera: camera.debug
+	
+	fallback[]: "chassis|4x2.sii"
+	fallback[]: "cabin|gigaspace.sii"
+	fallback[]: "interior|standard.sii"
+	fallback[]: "engine|engine_1842.sii"
+	fallback[]: "transmission|12_speed.sii"
+	fallback[]: "f_tire|1.sii"
+	fallback[]: "f_disc|front_disc_02_matt_gray.sii"
+	fallback[]: "f_hub|front_hub_01.sii"
+	fallback[]: "f_nuts|front_nuts_01_steel.sii"
+	fallback[]: "r_tire|1.sii"
+	fallback[]: "r_disc|rear_disc_01_matt_gray.sii"
+	fallback[]: "r_hub|rear_hub_01.sii"
+	fallback[]: "r_nuts|rear_nuts_01_steel.sii"
+	fallback[]: "paint_job|color0.sii"
+	fallback[]: "head_light|standard.sii"
+	fallback[]: "accessory|steering_w/standard.sii"
+	fallback[]: "accessory|trlr_cables/stock.sii"
+	fallback[]: "mirror|shape1.sii"
+	
+	require[]: mirror
+	require[]: doorstep
+	require[]: doorhndl
+	require[]: steering_w
+	require[]: f_fender_cab
+	require[]: f_fender_chs
+	require[]: f_intake_cab
+	require[]: f_intake_chs
+	require[]: f_logo
+	require[]: f_bumper
+	require[]: f_wnd_frame
+	require[]: s_strip
+	require[]: f_light_chs
+	require[]: r_fender
+}
+}

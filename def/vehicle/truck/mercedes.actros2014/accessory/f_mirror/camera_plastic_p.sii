@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : cam_plast.fma8p.2021.f_mirror
+{
+	name: "@@cornereye@@ @@paint@@"
+	price: 2880
+	unlock: 2
+	icon: "truck/daf_2021/accessory/f_mirror/cam_plastic"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/f_mirror/cam_plastic8.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/f_mirror/cam_plastic_int8p.pmd"
+	exterior_model_uk: "/vehicle/truck/daf_2021/accessory/f_mirror/cam_plastic8_uk.pmd"
+	interior_model_uk: "/vehicle/truck/daf_2021/accessory/f_mirror/cam_plastic_int8_uk.pmd"
+}
+}

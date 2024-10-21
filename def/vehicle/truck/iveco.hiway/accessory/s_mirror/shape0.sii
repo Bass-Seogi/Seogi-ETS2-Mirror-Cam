@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : shape0.iveco.hiway.s_mirror
+{
+	name: "no mirror"
+	price: 10
+	unlock: 1
+	icon: "s_mirror_01_hiway"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/upgrade/mirror/iveco_hiway/side_mirror_00.pmd"
+	interior_model: "/vehicle/truck/upgrade/mirror/iveco_hiway/side_mirror_00_interior.pmd"
+}
+}

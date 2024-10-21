@@ -1,0 +1,15 @@
+material : "eut2.dif.spec.weight.add.env.tsnmap.rfx" {
+	texture[0] : "/vehicle/truck/man_tgx_2020/interior/fabric_walls_c.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/soft_reflection/soft_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	texture[2] : "/vehicle/truck/man_tgx_2020/interior/fabric_walls_n.tobj"
+	texture_name[2] : "texture_nmap"
+	add_ambient : 0
+	diffuse : { 1 , 1 , 1 }
+	env_factor : { 0.132868 , 0.132868 , 0.132868 }
+	fresnel : { 0.2 , 0.9 }
+	reflection : 0
+	shininess : 20
+	specular : { 1 , 1 , 1 }
+}

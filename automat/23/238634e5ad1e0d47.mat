@@ -1,0 +1,14 @@
+effect : "eut2.retroreflective.tsnmap.piko.alldir.decal.over.rfx" {
+	texture : "texture_base" {
+		source : "/vehicle/share/textures/decal/reflectors.tobj"
+		min_filter : linear
+		mag_filter : linear
+		mip_filter : linear
+	}
+	texture : "texture_nmap" {
+		source : "/vehicle/share/textures/decal/reflectors_normal.tobj"
+		min_filter : linear
+		mag_filter : linear
+		mip_filter : linear
+	}
+}

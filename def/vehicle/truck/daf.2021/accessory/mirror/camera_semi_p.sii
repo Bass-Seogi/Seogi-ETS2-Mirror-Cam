@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_addon_data : cam_semi_p.daf.2021.mirror
+{
+	name: "Camera @@paint@@"
+	price: 5250
+	unlock: 2
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int_p.pmd"
+	exterior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_uk.pmd"
+	interior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int_uk.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi.pmc"
+}
+}

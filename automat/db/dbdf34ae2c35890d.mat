@@ -1,0 +1,30 @@
+effect : "eut2.dif.spec.add.env.tsnmap.rfx" {
+	additional_ambient : 0.000000
+	diffuse : { 0.447988 , 0.447988 , 0.447988 }
+	env_factor : { 0.132868 , 0.132868 , 0.132868 }
+	fresnel : { 0.200000 , 0.900000 }
+	reflection : 0.000000
+	shininess : 40.000000
+	specular : { 0.447988 , 0.447988 , 0.447988 }
+	texture : "texture_base" {
+		source : "/vehicle/trailer_owned/scs_dumper/cover_color.tobj"
+		min_filter : linear
+		mag_filter : linear
+		mip_filter : linear
+	}
+	texture : "texture_nmap" {
+		source : "/vehicle/trailer_owned/scs_dumper/cover_normal.tobj"
+		min_filter : linear
+		mag_filter : linear
+		mip_filter : linear
+	}
+	texture : "texture_reflection" {
+		source : "/material/environment/vehicle_reflection.tobj"
+		min_filter : linear
+		mag_filter : linear
+		mip_filter : none
+		u_address : clamp
+		v_address : clamp
+		w_address : clamp
+	}
+}

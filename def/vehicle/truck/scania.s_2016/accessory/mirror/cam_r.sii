@@ -1,0 +1,19 @@
+SiiNunit
+{
+accessory_addon_data : cam_r.ma14.mirror
+{
+	name: "@@cam_rear@@"
+	price: 5500
+	unlock: 10
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi14r.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int14r.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi14r.pmc"
+
+	suitable_for[]: "highline.scania.s_2016.cabin"
+	suitable_for[]: "normal.scania.s_2016.cabin"
+}
+}

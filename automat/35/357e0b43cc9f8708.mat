@@ -1,0 +1,13 @@
+material : "eut2.dif.spec.weight.add.env.rfx" {
+	texture[0] : "/vehicle/truck/scania_2016/interior/plastic_hard_c.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "/material/environment/soft_reflection/soft_reflection.tobj"
+	texture_name[1] : "texture_reflection"
+	add_ambient : 0
+	diffuse : { 0.307707 , 0.307707 , 0.307707 }
+	env_factor : { 0.323032 , 0.323032 , 0.323032 }
+	fresnel : { 0.7 , 0 }
+	reflection : 0
+	shininess : 26
+	specular : { 1 , 1 , 1 }
+}

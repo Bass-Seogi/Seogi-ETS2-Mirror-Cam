@@ -1,0 +1,20 @@
+SiiNunit
+{
+accessory_addon_data : cam_semi.ma6rsp8.mirror
+{
+	name: "Cam, Rear Slim Low @@paint@@"
+	price: 5250
+	unlock: 11
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi6rs8.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int6rsp.pmd"
+	exterior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi6s_uk.pmd"
+	interior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int6s_uk.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi.pmc"
+
+	suitable_for[]: "8x4.man.tgx_euro6.chassis"
+}
+}

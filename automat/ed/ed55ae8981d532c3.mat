@@ -1,0 +1,9 @@
+material : "eut2.dif.paint.rfx" {
+	texture[0] : "/vehicle/truck/mercedes_actros_2014/carpaint_normal.tobj"
+	texture_name[0] : "texture_base"
+	add_ambient : 0
+	diffuse : { 0 , 0 , 0 }
+	reflection : 0
+	shininess : 50
+	specular : { 1 , 1 , 1 }
+}

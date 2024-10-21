@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : cam_plast.fma12mt.f_mirror
+{
+	name: "Cam Front Top"
+	price: 3080
+	unlock: 2
+	icon: "truck/daf_2021/accessory/f_mirror/cam_plastic"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/f_mirror/cam_plastic12mt.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/f_mirror/cam_plastic_int12mt.pmd"
+}
+}

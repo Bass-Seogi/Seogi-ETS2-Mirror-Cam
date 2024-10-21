@@ -1,0 +1,22 @@
+effect : "eut2.dif.spec.weight.add.env.rfx" {
+	additional_ambient : 0.000000
+	diffuse : { 0.582711 , 0.582711 , 0.582711 }
+	env_factor : { 0.015325 , 0.015325 , 0.015325 }
+	fresnel : { 0.800000 , 1.000000 }
+	reflection : 0.000000
+	shininess : 18.000000
+	specular : { 1.000000 , 1.000000 , 1.000000 }
+	texture : "texture_base" {
+		source : "/vehicle/truck/scania_2016/interior/leather_fine_c.tobj"
+		min_filter : linear
+		mag_filter : linear
+		mip_filter : linear
+	}
+	texture : "texture_reflection" {
+		source : "/material/environment/soft_reflection/soft_reflection.tobj"
+		mip_filter : none
+		u_address : clamp
+		v_address : clamp
+		w_address : clamp
+	}
+}
