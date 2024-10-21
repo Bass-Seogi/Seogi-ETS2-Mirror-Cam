@@ -1,5 +1,5 @@
 ﻿[blue]Seogi Mirror Cam All Truck
-It will function normally from 1.51
+It will function normally from 1.52
 
 [red]My mod is only hosted in the workshop.
 If you find my mod on other sites, we do not support it.[normal]

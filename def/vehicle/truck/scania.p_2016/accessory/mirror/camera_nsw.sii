@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_addon_data : camera_nsw.ma14p.mirror
+{
+	name: "@@camera@@ 2016 @@slim@@ @@wood@@"
+	price: 5350
+	unlock: 10
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi14ns.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_int14nsw.pmd"
+	exterior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi14ns_uk.pmd"
+	interior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int14nsp_uk.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi14ns.pmc"
+}
+}

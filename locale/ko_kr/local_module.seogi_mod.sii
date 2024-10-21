@@ -37,5 +37,8 @@ localization_db : .localization
 
 	key[]: "fog_lights"
 	val[]: "안개등"
+
+	key[]: "wood"
+	val[]: "나무"
 }
 }

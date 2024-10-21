@@ -9,7 +9,7 @@ accessory_addon_data : cam_rp8.ma13.mirror
 	part_type: aftermarket
 
 	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi14r8.pmd"
-	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int14rp.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_int14rp.pmd"
 
 	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi14r.pmc"
 
