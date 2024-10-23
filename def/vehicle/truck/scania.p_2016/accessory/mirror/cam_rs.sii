@@ -8,9 +8,9 @@ accessory_addon_data : cam_rs.ma14p.mirror
 	icon: "truck/daf_2021/accessory/mirror/cam_semi"
 	part_type: aftermarket
 
-	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi14rs.pmd"
-	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int14rs.pmd"
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam14rs.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_int14rs.pmd"
 
-	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi14rs.pmc"
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam14rs.pmc"
 }
 }

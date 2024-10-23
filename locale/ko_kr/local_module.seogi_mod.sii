@@ -39,6 +39,6 @@ localization_db : .localization
 	val[]: "안개등"
 
 	key[]: "wood"
-	val[]: "나무"
+	val[]: "우드"
 }
 }

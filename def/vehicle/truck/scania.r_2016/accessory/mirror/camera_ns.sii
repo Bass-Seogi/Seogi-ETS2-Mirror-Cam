@@ -8,11 +8,11 @@ accessory_addon_data : camera_ns.ma13.mirror
 	icon: "truck/daf_2021/accessory/mirror/cam_semi"
 	part_type: aftermarket
 
-	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi14ns.pmd"
-	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int14ns.pmd"
-	exterior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi14ns_uk.pmd"
-	interior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int14ns_uk.pmd"
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam14ns.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_int14ns.pmd"
+	exterior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam14ns_uk.pmd"
+	interior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_int14ns_uk.pmd"
 
-	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi14ns.pmc"
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam14ns.pmc"
 }
 }

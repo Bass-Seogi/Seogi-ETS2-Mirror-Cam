@@ -1,0 +1,13 @@
+effect : "eut2.dif.spec.weight.rfx" {
+	additional_ambient : 0.000000
+	diffuse : { 0.318547 , 0.318547 , 0.318547 }
+	reflection : 0.000000
+	shininess : 20.000000
+	specular : { 0.440901 , 0.440901 , 0.440901 }
+	texture : "texture_base" {
+		source : "/vehicle/share/textures/rubber/rubber_base.tobj"
+		min_filter : linear
+		mag_filter : linear
+		mip_filter : linear
+	}
+}

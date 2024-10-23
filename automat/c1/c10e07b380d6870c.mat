@@ -1,0 +1,34 @@
+effect : "eut2.dif.spec.weight.add.env.tsnmap.over.rfx" {
+	additional_ambient : 0.000000
+	diffuse : { 0.096281 , 0.096281 , 0.096281 }
+	env_factor : { 0.522522 , 0.522522 , 0.522522 }
+	fresnel : { 0.200000 , 0.900000 }
+	reflection : 0.000000
+	shininess : 50.000000
+	specular : { 0.522522 , 0.522522 , 0.522522 }
+	texture : "texture_base" {
+		source : "/vehicle/truck/daf_2021/decals_c.tobj"
+		min_filter : linear
+		mag_filter : linear
+		mip_filter : linear
+		u_address : clamp
+		v_address : clamp
+	}
+	texture : "texture_nmap" {
+		source : "/vehicle/truck/daf_2021/decals_nmp.tobj"
+		min_filter : linear
+		mag_filter : linear
+		mip_filter : linear
+		u_address : clamp
+		v_address : clamp
+	}
+	texture : "texture_reflection" {
+		source : "/material/environment/fuzzy_reflection/fuzzy_reflection.tobj"
+		min_filter : linear
+		mag_filter : linear
+		mip_filter : none
+		u_address : clamp
+		v_address : clamp
+		w_address : clamp
+	}
+}

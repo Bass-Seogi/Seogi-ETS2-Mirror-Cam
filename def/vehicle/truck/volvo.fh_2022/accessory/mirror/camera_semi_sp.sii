@@ -8,8 +8,8 @@ accessory_addon_data : cam_semi.sa17sp.2021.mirror
 	icon: "truck/daf_2021/accessory/mirror/cam_semi"
 	part_type: aftermarket
 
-	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/sam_semi17s.pmd"
-	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/sam_semi_int17sp.pmd"
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi17s.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int17sp.pmd"
 
 	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi.pmc"
 }

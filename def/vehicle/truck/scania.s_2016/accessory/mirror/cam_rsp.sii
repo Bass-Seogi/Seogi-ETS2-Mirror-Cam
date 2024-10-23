@@ -8,10 +8,10 @@ accessory_addon_data : cam_rsp.ma14.mirror
 	icon: "truck/daf_2021/accessory/mirror/cam_semi"
 	part_type: aftermarket
 
-	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi14rs.pmd"
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam14rs.pmd"
 	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_int14rsp.pmd"
 
-	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi14rs.pmc"
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam14rs.pmc"
 
 	suitable_for[]: "highline.scania.s_2016.cabin"
 	suitable_for[]: "normal.scania.s_2016.cabin"

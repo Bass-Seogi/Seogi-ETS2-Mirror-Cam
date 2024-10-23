@@ -10,8 +10,8 @@ accessory_addon_data : cam_semi.ma8r8.2021.mirror
 
 	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi8r8.pmd"
 	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int8r.pmd"
-	exterior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi14_uk.pmd"
-	interior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int14_uk.pmd"
+	exterior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi8_uk.pmd"
+	interior_model_uk: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi_int8_uk.pmd"
 
 	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi.pmc"
 

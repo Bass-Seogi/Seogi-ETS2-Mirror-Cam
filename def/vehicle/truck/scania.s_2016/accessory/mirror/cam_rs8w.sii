@@ -8,10 +8,10 @@ accessory_addon_data : cam_rs8w.ma14.mirror
 	icon: "truck/daf_2021/accessory/mirror/cam_semi"
 	part_type: aftermarket
 
-	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi14rs8.pmd"
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam14rs8.pmd"
 	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_int14rsw.pmd"
 
-	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_semi14rs.pmc"
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam14rs.pmc"
 
 	suitable_for[]: "highline_8x4.scania.s_2016.cabin"
 }
