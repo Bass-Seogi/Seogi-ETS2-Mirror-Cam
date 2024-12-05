@@ -1,8 +1,8 @@
 ﻿[blue]Seogi Mirror Cam All Truck
-It will function normally from 1.52
+It will function normally from 1.53
 
-[red]My mod is only hosted in the workshop.
-If you find my mod on other sites, we do not support it.[normal]
+[red]My mods are only posted on the workshop. 
+If you find this mod anywhere else, please do not use it as it is illegally leaked.[normal]
 
 
 f_mirror cam and external point of view, Center mirror cam (rear cam, front cam top)
