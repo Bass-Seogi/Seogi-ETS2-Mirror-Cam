@@ -30,6 +30,7 @@ volvo.fh16_2012 (add rearcam for 8x4)
 mod sanax_volvo_fh_2022
 mod reworked volvo.fh16_2012,2018 (f_mirror Reworked)
 mod mack.r
+mod volvo.vnl2018
 
 man.tgx_2020 (find rear cam in f_mirror)
 

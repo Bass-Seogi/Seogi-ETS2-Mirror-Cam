@@ -1,0 +1,19 @@
+SiiNunit
+{
+accessory_addon_data : cam.mav18r.mirror
+{
+	name: "@@cam_rear@@"
+	price: 5500
+	unlock: 2
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam18r.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_int18r.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam18r.pmc"
+
+	suitable_for[]: "s740.volvo.vnl2018.cabin"
+	suitable_for[]: "s860.volvo.vnl2018.cabin"
+}
+}

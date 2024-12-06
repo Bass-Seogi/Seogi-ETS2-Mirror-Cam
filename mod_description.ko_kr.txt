@@ -30,6 +30,7 @@ volvo.fh16_2012 (8x4용 후방캠 추가)
 mod sanax_volvo_fh_2022
 mod reworked volvo.fh16_2012,2018 (프론트캠 Reworked)
 mod mack.r
+mod volvo.vnl2018
 
 man.tgx_2020 (전방 미러에서 후방캠 찾기)
 
