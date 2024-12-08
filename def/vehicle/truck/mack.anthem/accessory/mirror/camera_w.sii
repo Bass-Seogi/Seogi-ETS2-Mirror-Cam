@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : cam.maw.mirror
+{
+	name: "@@camera@@ @@wood@@"
+	price: 5050
+	unlock: 10
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_ma.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_int_maw.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_ma.pmc"
+}
+}

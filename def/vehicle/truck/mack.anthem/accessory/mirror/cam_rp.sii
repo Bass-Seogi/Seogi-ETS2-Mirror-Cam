@@ -1,0 +1,19 @@
+SiiNunit
+{
+accessory_addon_data : cam.marp.mirror
+{
+	name: "@@cam_rear@@ @@paint@@"
+	price: 5550
+	unlock: 10
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_mar.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_int_marp.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_mar.pmc"
+
+	suitable_for[]: "s48.mack.anthem.cabin"
+	suitable_for[]: "s70.mack.anthem.cabin"
+}
+}

@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_addon_data : cam.ma90rs.mirror
+{
+	name: "@@cam_rear@@"
+	price: 5250
+	unlock: 2
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam90rs.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_int90r.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam90r.pmc"
+
+	suitable_for[]: "day.kenworth.w900.cabin"
+}
+}

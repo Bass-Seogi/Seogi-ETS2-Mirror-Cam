@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_addon_data : cam.marws.mirror
+{
+	name: "@@cam_rear@@ @@wood@@"
+	price: 5550
+	unlock: 10
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_mars.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_int_marw.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_mar.pmc"
+
+	suitable_for[]: "day.mack.anthem.cabin"
+}
+}

@@ -16,6 +16,7 @@ renault.tㅤ renault.etech_t
 
 man.tgx
 man.tgx_euro6 (add rearcam for 8x4)
+man.tgx_2020 (find rear cam in f_mirror)
 
 mercedes.actros
 mercedes.actros2014 (add rearcam for 8x4)
@@ -27,12 +28,15 @@ scania.streamlineㅤ scania.r (add rearcam for 8x4)
 
 volvo.fh16
 volvo.fh16_2012 (add rearcam for 8x4)
-mod sanax_volvo_fh_2022
-mod reworked volvo.fh16_2012,2018 (f_mirror Reworked)
-mod mack.r
-mod volvo.vnl2018
 
-man.tgx_2020 (find rear cam in f_mirror)
+sanax_volvo_fh_2022
+reworked volvo.fh16_2012,2018 (f_mirror Reworked)
+
+mack.r
+volvo.vnl2018
+kenworth.w900
+mack.anthem
+
 
 Side mirrors can be removed
 Fix not being able to remove Iveco Daf mirror (option - no mirror)
