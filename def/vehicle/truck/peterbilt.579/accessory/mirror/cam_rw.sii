@@ -1,0 +1,19 @@
+SiiNunit
+{
+accessory_addon_data : cam.ma_p5rw.mirror
+{
+	name: "@@cam_rear@@ @@wood@@"
+	price: 5550
+	unlock: 10
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_p5r.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_int_p5rw.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam_p5r.pmc"
+
+	suitable_for[]: "exclusive.peterbilt.579.cabin"
+	suitable_for[]: "standard.peterbilt.579.cabin"
+}
+}

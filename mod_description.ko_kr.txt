@@ -36,6 +36,7 @@ mack.r
 volvo.vnl2018
 kenworth.w900
 mack.anthem
+peterbilt.579
 
 
 사이드미러 탈부착 가능
