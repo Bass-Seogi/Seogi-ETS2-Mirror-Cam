@@ -1,4 +1,4 @@
-﻿[blue]Seogi Mirror Cam All Truck
+﻿[blue]Seogi ETS2 Mirror Cam
 It will function normally from 1.53
 
 [red]My mods are only posted on the workshop. 
@@ -31,12 +31,6 @@ volvo.fh16_2012 (add rearcam for 8x4)
 
 sanax_volvo_fh_2022
 reworked volvo.fh16_2012,2018 (f_mirror Reworked)
-
-mack.r
-volvo.vnl2018
-kenworth.w900
-mack.anthem
-peterbilt.579
 
 
 Side mirrors can be removed
