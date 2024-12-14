@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_addon_data : cam_rs.iveco.sway.mirror
+{
+	name: "@@cam_rear@@ @@slim@@"
+	price: 5600
+	unlock: 2
+	icon: "truck/iveco_sway/accessory/mirror/cam_paint"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_isr.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_int_isrs.pmd"
+
+	coll: "/vehicle/truck/iveco_sway/accessory/mirror/cam_paint.pmc"
+
+	defaults[]: "/def/vehicle/truck/iveco.sway/accessory/s_mirror/plastic2.sii"
+}
+}

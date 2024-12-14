@@ -4,7 +4,7 @@ accessory_addon_data : cam_rp8.ma14.mirror
 {
 	name: "@@cam_rear@@ @@paint@@"
 	price: 5550
-	unlock: 10
+	unlock: 2
 	icon: "truck/daf_2021/accessory/mirror/cam_semi"
 	part_type: aftermarket
 

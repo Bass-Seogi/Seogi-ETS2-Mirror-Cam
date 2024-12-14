@@ -9,7 +9,7 @@
 
 daf.xfㅤ daf.xf_euro6ㅤ daf.2021
 
-iveco.stralisㅤ iveco.hiway
+iveco.stralisㅤ iveco.hiwayㅤ iveco.sway
 
 renault.magnumㅤ renault.premiumㅤ 프론트캠, 코너캠
 renault.tㅤ renault.etech_t

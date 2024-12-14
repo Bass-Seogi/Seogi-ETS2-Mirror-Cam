@@ -4,7 +4,7 @@ accessory_addon_data : camera_nsw.ma14.mirror
 {
 	name: "@@camera@@ 2016 @@slim@@ @@wood@@"
 	price: 5350
-	unlock: 10
+	unlock: 2
 	icon: "truck/daf_2021/accessory/mirror/cam_semi"
 	part_type: aftermarket
 

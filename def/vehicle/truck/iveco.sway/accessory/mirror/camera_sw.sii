@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_addon_data : camera_sw.iveco.sway.mirror
+{
+	name: "@@camera@@, @@slim@@ @@wood@@"
+	price: 5150
+	unlock: 2
+	icon: "truck/iveco_sway/accessory/mirror/cam_paint"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/iveco_sway/accessory/mirror/cam_paint.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_int_issw.pmd"
+
+	coll: "/vehicle/truck/iveco_sway/accessory/mirror/cam_paint.pmc"
+
+	defaults[]: "/def/vehicle/truck/iveco.sway/accessory/s_mirror/plastic2.sii"
+}
+}

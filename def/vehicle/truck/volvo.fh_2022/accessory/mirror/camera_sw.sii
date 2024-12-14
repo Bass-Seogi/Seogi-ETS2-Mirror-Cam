@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : camera_sw.sa22.mirror
+{
+	name: "@@camera@@, @@slim@@ @@wood@@"
+	price: 5105
+	unlock: 2
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam22.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_int22sw.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam22.pmc"
+}
+}

@@ -9,7 +9,7 @@ f_mirror cam and external point of view, Center mirror cam (rear cam, front cam 
 
 daf.xfㅤ daf.xf_euro6ㅤ daf.2021
 
-iveco.stralisㅤ iveco.hiway
+iveco.stralisㅤ iveco.hiwayㅤ iveco.sway
 
 renault.magnumㅤ renault.premiumㅤ f_mirror Cam, CornerCam
 renault.tㅤ renault.etech_t

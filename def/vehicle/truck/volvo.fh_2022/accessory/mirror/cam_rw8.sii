@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_addon_data : cam_rw8.sa22.mirror
+{
+	name: "@@cam@@, @@rear@@ @@wood@@ 8x"
+	price: 5205
+	unlock: 2
+	icon: "truck/daf_2021/accessory/mirror/cam_semi"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam22r8.pmd"
+	interior_model: "/vehicle/truck/daf_2021/accessory/mirror/cam_int22rw.pmd"
+
+	coll: "/vehicle/truck/daf_2021/accessory/mirror/cam22r.pmc"
+
+	suitable_for[]: "8x4_chs.volvo.fh_2022.chassis"
+}
+}

@@ -4,7 +4,7 @@ accessory_addon_data : cam_rsw.ma13.mirror
 {
 	name: "@@cam_rear@@ @@slim@@ @@wood@@"
 	price: 5650
-	unlock: 10
+	unlock: 2
 	icon: "truck/daf_2021/accessory/mirror/cam_semi"
 	part_type: aftermarket
 
